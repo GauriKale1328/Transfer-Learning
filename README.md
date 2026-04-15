@@ -16,9 +16,6 @@ https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detect
 3. Fine-tuning
 4. Evaluation with metrics
 
-## Results
-
-Achieved ~90% accuracy.
 
 ## Tools Used
 
